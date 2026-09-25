@@ -1,0 +1,6 @@
+{
+  "name": "Zomato",
+  "description": "Explore restaurants, order food online, discover dining places, and track live deliveries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
